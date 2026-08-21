@@ -177,7 +177,7 @@ See [`changelog.md`](changelog.md) for version history and feature details.
 ## 🧠 Author & License
 
 **Author:** Sozezzo Astra  
-**Version:** 1.0.2  
+**Version:** 1.0.3  
 **License:** MIT  
 
 This project was created to simplify and unify PowerShell automation for database administrators and system engineers — bridging **SQL Server management**, **system tasks**, and **DevOps workflows** into one cohesive toolkit.
